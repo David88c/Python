@@ -5,7 +5,10 @@ a = "David"
 print(type(a))
 print(a)
 
-tets
+#Naming convention
 
+#ageOfEmpires -> Camel Case
+#AgeOfEmpires -> Pascal Case
+#age_of_empires -> Snake Case
 
 
