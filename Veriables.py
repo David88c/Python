@@ -12,3 +12,13 @@ print(a)
 #age_of_empires -> Snake Case
 
 
+num1 = 7.7
+print(type(num1))
+print(num1)
+
+
+my_list = [1, "David", 2, "bla bla"]
+print(my_list)
+print(type(my_list))
+
+
