@@ -1,18 +1,18 @@
 import os
 
+
 def current_dir():
-    cwd=os.getcwd()
+    cwd = os.getcwd()
     print(cwd)
 
+
 def file_path(filename):
-    path=os.path.abspath((filename))
+    path = os.path.abspath((filename))
     print
 
 
 current_dir()
-filename="file.txt"
+filename = "file.txt"
 file_path(filename)
 
-os.renames  = []
-
-!
+os.renames = []

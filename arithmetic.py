@@ -1,4 +1,4 @@
-# number_1 = 9
+ number_1 = 9
 # number_2 = 4
 
 # text_1 = "alex"

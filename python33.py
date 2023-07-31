@@ -4,6 +4,7 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
+
 # Test the factorial function
 num = 5
 result = factorial(num)
