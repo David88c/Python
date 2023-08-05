@@ -2,12 +2,6 @@
 #The values of variables 'a' and 'b' are provided as input on separate lines and can
 #only be of integer type.
 
-#a = int(input("Provide a number:"))
-#b = int(input("Provide a number:"))
-
-#print(a + b)
-
-
 a = int(input("Enter the value of 'a': "))
 b = int(input("Enter the value of 'b': "))
 
