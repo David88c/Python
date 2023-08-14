@@ -1,2 +1,3 @@
-name = input("Enter your name:")
-print(f"Hello, {name} how are you doing today?")
+num1 = int(input("Enter"))
+num2 = int(input("Enter"))
+print(num1 + num2)
