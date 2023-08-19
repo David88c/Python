@@ -1,0 +1,6 @@
+str1 = input("Enter a message: ")
+print(str1.lower())
+print(str1.upper())
+print(str1.capitalize())
+print(str1.title())
+print(f'Words: {sorted(iter(key=None)str1.split())}')
