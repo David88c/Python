@@ -11,4 +11,4 @@ print(sorted_list_b)
 print(reverse_sorted_list_b)
 
 list_c = [1, 7, -6, 1000, -600, 20000, "Alex"]
-sorted_list_c = sorted(list_c)
+sorted_list_c = sorted(list_c) #TypeError: '<' not supported between instances of 'str' and 'int'
