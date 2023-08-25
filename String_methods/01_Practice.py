@@ -1,4 +1,3 @@
-#text = input()
-#print(text.upper())
+text = input()
+print(text.upper())
 
-#------------------
