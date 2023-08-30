@@ -5,7 +5,6 @@ print(f"{point =}")
 print(f"{point[0] =}")
 #print(f"{point[5] =}") #IndexError: tuple index out of range
 
-
 point_3d = (1.5,3.6,4.2)
 
 x, y, z = point_3d
