@@ -14,5 +14,4 @@ days = {
 }
 
 num_of_month = int(input("Enter a month number: "))
-print(days[num_of_month])
 print(days.get(num_of_month))
