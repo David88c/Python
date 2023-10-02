@@ -1,4 +1,4 @@
-from calculation_module import calculate_sum as cs, calculate_multiplication as cm
+from Modules.calculator_module import calculate_sum as cs, calculate_multiplication as cm
 
 num1 = 10
 num2 = 20
