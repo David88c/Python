@@ -10,3 +10,6 @@ for item in list_of_data:
     #     print(letter)
 
 my_file.close()
+
+
+
